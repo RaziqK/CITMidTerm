@@ -1,0 +1,12 @@
+#demo {
+	width: 70vw;
+	height: 70vh;
+    position: absolute;
+    margin: auto;
+    top:300%;
+    left:200px;
+}
+
+.cloth {
+    width:10%;
+}
